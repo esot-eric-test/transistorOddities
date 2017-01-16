@@ -1,3 +1,4 @@
 #!/bin/bash
-
-git push -u origin master
+git add .
+git commit
+git push
